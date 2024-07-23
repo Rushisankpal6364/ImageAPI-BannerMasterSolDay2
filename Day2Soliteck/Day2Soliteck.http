@@ -1,0 +1,6 @@
+@Day2Soliteck_HostAddress = http://localhost:5209
+
+GET {{Day2Soliteck_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
